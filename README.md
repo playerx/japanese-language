@@ -1,4 +1,4 @@
-# Japanese Language - Cheet Sheet
+# Japanese Language
 
 
 | |て-ფორმა|პოტენციური ფორმა|
